@@ -1,6 +1,9 @@
 # ToDoListApp
 A beginner-friendly to-do list desktop application built in Python.
 
+## Watch Video on YouTube:
+https://www.youtube.com/watch?v=2H4cYt_3DsE
+
 ## Features
 - Add Task, View All Tasks, Mark a Task as Done, Remove a Task
 - Beginner-friendly code
